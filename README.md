@@ -9,4 +9,4 @@ This is a TripVisor like api which provides requests like
 5.Update a travel destination,
 6.Delete a travel destination,
 7.Add reviews,
-8.View User reviews 
+8.View User reviews  
